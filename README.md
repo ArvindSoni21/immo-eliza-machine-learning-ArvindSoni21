@@ -111,13 +111,13 @@ Present your results in front of the group.
 | Criteria       | Indicator                                     | Yes/No |
 | -------------- | --------------------------------------------- | ------ |
 | 1. Is complete | Know how to answer all the above questions.   | [ ]    |
-|                | `pandas` and `matplotlib`/`seaborn` are used. | [ ]    |
-|                | All the above steps were followed.            | [ ]    |
-|                | A nice README is available.                   | [ ]    |
-|                | Your model is able to predict something.      | [ ]    |
+|                | `pandas` and `matplotlib`/`seaborn` are used. | [Yes]  |
+|                | All the above steps were followed.            | [Yes]  |
+|                | A nice README is available.                   | [yes]  |
+|                | Your model is able to predict something.      | [NO]   |
 | 2. Is good     | You used typing and docstring.                | [ ]    |
-|                | Your code is formatted (PEP8 compliant).      | [ ]    |
-|                | No unused file/code is present.               | [ ]    |
+|                | Your code is formatted (PEP8 compliant).      | [Yes]  |
+|                | No unused file/code is present.               | [No]   |
 
 ## Quotes
 
